@@ -3,7 +3,9 @@
 A module for taking screenshots with pleasant animation. 
 
 
-https://github.com/user-attachments/assets/17b30b2f-c360-439b-9d14-e18ee68cc5cd
+
+https://github.com/user-attachments/assets/8745d714-ca69-463e-b844-961d75e7d3f3
+
 
 
 # How To Install?
